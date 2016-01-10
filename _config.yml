@@ -7,10 +7,10 @@
 
 # Site settings
 title: ÷o
-email: dennyspatera@gmail.com
+email: d.linggar@icloud.com
 description: > # this means to ignore newlines until "baseurl:"
   <b>Dennys Linggar</b> is a <em>Web Developer by profession, an automotive enthusiast by passion</em>. He's currently a postgraduate student at The University of Queensland and a <em>freelance web developer</em>.
-  
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dennyspatera.com" # the base hostname & protocol for your site
