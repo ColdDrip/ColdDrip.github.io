@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Okay What's Next?"
+title:  "Okay What Next?"
 date:   2016-01-13 12:05:03 +0700
 categories: Misc
 ---
