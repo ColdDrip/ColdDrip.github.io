@@ -7,7 +7,7 @@ categories: Misc
 ---
 <strong><h2>There was a Bomb in Jakarta!</h2></strong>
 
-14 January 2016, there was a bomb in Jakarta yesterday morning. Around 11.00 AM.
+There was a bomb in Jakarta on 14 January 2016 morning. Around 11.00 AM.
 
 It explodes in inner Jakarta, the more precise location is on Jalan MH Thamrin, in front of Sarinah. 
 
