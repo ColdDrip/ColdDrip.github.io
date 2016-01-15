@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title:  "Blast For The Year"
 date:   2016-01-10 14:09:03 +0700
