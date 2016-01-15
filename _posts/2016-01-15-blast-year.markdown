@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Blast For The Year"
-date:   2016-01-10 14:09:03 +0700
+date:   2016-01-15 11:47:03 +0700
 categories: Misc
 ---
 
-<strong><h2>There was a Bomb in Jakarta!</h2></strong>
+<h2><strong>There was a Bomb in Jakarta!</strong></h2>
 
 There was a bomb in Jakarta on 14 January 2016 morning. Around 11.00 AM.
 
