@@ -4,6 +4,7 @@ title:  "Blast For The Year"
 date:   2016-01-10 14:09:03 +0700
 categories: Misc
 ---
+
 <strong><h2>There was a Bomb in Jakarta!</h2></strong>
 
 There was a bomb in Jakarta on 14 January 2016 morning. Around 11.00 AM.
