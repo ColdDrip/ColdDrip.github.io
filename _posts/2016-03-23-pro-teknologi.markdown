@@ -34,3 +34,5 @@ Kehadiran Uber, Grab dan Gojek seharusnya tidak menjadi musuh bagi industri teru
 Manusia itu adalah makhluk hidup yang sangat pandai beradaptasi, jadi menurut gw nggak ada yang namanya nggak bisa, adanya adalah orang yang gak mau!
 
 silahkan caci gw, bilang gw tidak ber prikemanusiaan atau tidak punya solidaritas, to be frank jika lo gak nyoba beradaptasi sama sekali lo gak berhak mengkritik!
+
+Tulisan ini cuma menggores permukaan teknologi dan bisnis kreatif, akan ada lebih banyak tulisan yang akan membahas lebih dalam akan konteks ini dikedepannya. Jadi jika banyak informasi yang kurang dalam, harap bersabar. 
