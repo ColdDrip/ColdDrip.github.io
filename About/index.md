@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+
 ---
 
 <b>Dennys Linggar</b> is a <em>Web Developer by profession, an automotive enthusiast by passion</em>. He's currently a postgraduate student at The University of Queensland and a <em>freelance web developer</em>.
