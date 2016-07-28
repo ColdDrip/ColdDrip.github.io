@@ -1,14 +1,14 @@
 ---
 layout: page
-title: DECO7230
-permalink: /deco/
+title: DECO7230 - Digital Prototyping
+permalink: /deco_7230/
 ---
 
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.categories.DECO%}
-    {% if post.categories contains '7230' %}
+    {% for post in site.posts%}
+    {% if post.categories contains 'DECO7230' %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></a>
